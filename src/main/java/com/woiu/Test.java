@@ -4,7 +4,7 @@ import org.apache.shiro.config.IniSecurityManagerFactory;
 import org.apache.shiro.mgt.SecurityManager;
 import org.apache.shiro.util.Factory;
 
-public class Test {
+public class Test {23123213
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Factory<SecurityManager> factory = new IniSecurityManagerFactory("classpath:shiro.ini");
